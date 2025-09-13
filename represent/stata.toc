@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p theilr2 Theil R2 Multicollinearity Effect Use theilr2 With STATA 19

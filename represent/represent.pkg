@@ -1,0 +1,5 @@
+D 'theilr2': Theil R2 Multicollinearity Effect Use theilr2 With STATA 19
+D
+F theilr2.ado
+F theilr2.sthlp
+F theilr2.dlg
